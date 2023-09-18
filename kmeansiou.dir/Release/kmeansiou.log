@@ -1,0 +1,3 @@
+﻿  Building Custom Rule C:/darknet/CMakeLists.txt
+  kmeansiou.c
+  kmeansiou.vcxproj -> C:\darknet\Release\kmeansiou.exe
